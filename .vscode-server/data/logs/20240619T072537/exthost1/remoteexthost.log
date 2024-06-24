@@ -1,0 +1,13 @@
+2024-06-19 08:25:38.660 [info] Extension host with pid 175 started
+2024-06-19 08:25:38.691 [info] Lock '/home/equipo1/.vscode-server/data/User/workspaceStorage/9dfa7101abd7e90fd02f7228d469d00a/vscode.lock': Lock acquired.
+2024-06-19 08:25:38.737 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-19 08:25:38.740 [info] ExtensionService#_doActivateExtension doinkythederp.nasm-language-support, startup: false, activationEvent: 'onLanguage:nasm'
+2024-06-19 08:25:39.346 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-19 08:25:39.522 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-19 08:25:39.522 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-19 08:25:39.939 [info] Eager extensions activated
+2024-06-19 08:25:39.940 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-19 08:25:39.940 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-19 15:32:53.759 [info] Extension host terminating: received terminate message from renderer
+2024-06-19 15:32:53.760 [info] Lock '/home/equipo1/.vscode-server/data/User/workspaceStorage/9dfa7101abd7e90fd02f7228d469d00a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-06-19 15:32:53.954 [info] Extension host with pid 175 exiting with code 0

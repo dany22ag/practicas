@@ -1,0 +1,29 @@
+[Info  - 11:28:16 AM] Revalidating all documents due to configuration change
+[Info  - 11:28:16 AM] validating source code
+[Info  - 11:28:16 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:28:16 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:28:16 AM] validating source code
+[Info  - 11:28:16 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:28:16 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:29:21 AM] validating source code
+[Info  - 11:29:21 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:29:21 AM] Parsing diagnostics from in.asm
+[Info  - 11:29:21 AM] Parsed error diagnostic on line 144 with message "expression syntax error"
+[Info  - 11:29:21 AM] Parsed error diagnostic on line 145 with message "label or instruction expected at start of line"
+finished calculating 2 diagnostics, sending
+[Info  - 11:29:21 AM] validating source code
+[Info  - 11:29:21 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:29:21 AM] Parsing diagnostics from in.asm
+[Info  - 11:29:21 AM] Parsed error diagnostic on line 144 with message "expression syntax error"
+[Info  - 11:29:21 AM] Parsed error diagnostic on line 145 with message "label or instruction expected at start of line"
+finished calculating 2 diagnostics, sending
+[Info  - 11:29:36 AM] validating source code
+[Info  - 11:29:36 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:29:36 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:29:57 AM] validating source code
+[Info  - 11:29:57 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:29:57 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending

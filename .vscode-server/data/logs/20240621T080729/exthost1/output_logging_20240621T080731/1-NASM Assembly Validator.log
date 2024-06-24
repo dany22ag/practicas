@@ -1,0 +1,389 @@
+[Info  - 8:07:32 AM] Revalidating all documents due to configuration change
+[Info  - 8:07:32 AM] validating source code
+[Info  - 8:07:32 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:07:32 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:07:32 AM] validating source code
+[Info  - 8:07:32 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:07:32 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:08:30 AM] validating source code
+[Info  - 8:08:30 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:08:30 AM] Parsing diagnostics from in.asm
+[Info  - 8:08:30 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file ` functions.asm '"
+finished calculating 1 diagnostics, sending
+[Info  - 8:10:14 AM] validating source code
+[Info  - 8:10:14 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:10:14 AM] Parsing diagnostics from in.asm
+[Info  - 8:10:14 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file ` functions.asm '"
+finished calculating 1 diagnostics, sending
+[Info  - 8:10:33 AM] validating source code
+[Info  - 8:10:33 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:10:33 AM] Parsing diagnostics from in.asm
+[Info  - 8:10:33 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:11:02 AM] validating source code
+[Info  - 8:11:02 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:11:02 AM] Parsing diagnostics from in.asm
+[Info  - 8:11:02 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:11:17 AM] validating source code
+[Info  - 8:11:17 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:11:17 AM] Parsing diagnostics from in.asm
+[Info  - 8:11:17 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:12:00 AM] validating source code
+[Info  - 8:12:00 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:12:00 AM] Parsing diagnostics from in.asm
+[Info  - 8:12:00 AM] Parsed fatal diagnostic on line 5 with message "unable to open include file ` functions.asm '"
+finished calculating 1 diagnostics, sending
+[Info  - 8:12:10 AM] validating source code
+[Info  - 8:12:10 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:12:10 AM] Parsing diagnostics from in.asm
+[Info  - 8:12:10 AM] Parsed fatal diagnostic on line 5 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:12:15 AM] validating source code
+[Info  - 8:12:15 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:12:15 AM] Parsing diagnostics from in.asm
+[Info  - 8:12:15 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:12:22 AM] validating source code
+[Info  - 8:12:22 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:12:22 AM] Parsing diagnostics from in.asm
+[Info  - 8:12:22 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:12:26 AM] validating source code
+[Info  - 8:12:26 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:12:26 AM] Parsing diagnostics from in.asm
+[Info  - 8:12:26 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:12:35 AM] validating source code
+[Info  - 8:12:35 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:12:35 AM] Parsing diagnostics from in.asm
+[Info  - 8:12:35 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:12:52 AM] validating source code
+[Info  - 8:12:52 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:12:52 AM] Parsing diagnostics from in.asm
+[Info  - 8:12:52 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 11:13:02 AM] validating source code
+[Info  - 11:13:02 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:13:02 AM] Parsing diagnostics from in.asm
+[Info  - 11:13:02 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 11:14:21 AM] validating source code
+[Info  - 11:14:21 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:14:21 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:14:39 AM] validating source code
+[Info  - 11:14:39 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:14:39 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:14:57 AM] validating source code
+[Info  - 11:14:57 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:14:57 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:15:22 AM] validating source code
+[Info  - 11:15:22 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:15:22 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:20:02 AM] validating source code
+[Info  - 11:20:02 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:20:02 AM] Parsing diagnostics from in.asm
+[Info  - 11:20:02 AM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 11:25:35 AM] validating source code
+[Info  - 11:25:35 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:25:35 AM] Parsing diagnostics from in.asm
+[Info  - 11:25:35 AM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 11:25:38 AM] validating source code
+[Info  - 11:25:38 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:25:38 AM] Parsing diagnostics from in.asm
+[Info  - 11:25:38 AM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 11:39:28 AM] validating source code
+[Info  - 11:39:28 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:39:28 AM] Parsing diagnostics from in.asm
+[Info  - 11:39:28 AM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 11:42:01 AM] validating source code
+[Info  - 11:42:01 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:42:01 AM] Parsing diagnostics from in.asm
+[Info  - 11:42:01 AM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 11:46:26 AM] validating source code
+[Info  - 11:46:26 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:46:26 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:46:41 AM] validating source code
+[Info  - 11:46:41 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:46:41 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:47:19 AM] validating source code
+[Info  - 11:47:19 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:47:19 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:54:16 AM] validating source code
+[Info  - 11:54:16 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:54:16 AM] Parsing diagnostics from in.asm
+[Info  - 11:54:16 AM] Parsed fatal diagnostic on line 5 with message "unable to open include file `functiosn.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 11:55:17 AM] validating source code
+[Info  - 11:55:17 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:55:17 AM] Parsing diagnostics from in.asm
+[Info  - 11:55:17 AM] Parsed fatal diagnostic on line 5 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 11:58:18 AM] validating source code
+[Info  - 11:58:18 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:58:18 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:58:30 AM] validating source code
+[Info  - 11:58:30 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:58:30 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:58:55 AM] validating source code
+[Info  - 11:58:55 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:58:55 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 12:12:06 PM] validating source code
+[Info  - 12:12:06 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:12:06 PM] Parsing diagnostics from in.asm
+[Info  - 12:12:06 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:12:14 PM] validating source code
+[Info  - 12:12:14 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:12:14 PM] Parsing diagnostics from in.asm
+[Info  - 12:12:14 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:14:12 PM] validating source code
+[Info  - 12:14:12 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:14:12 PM] Parsing diagnostics from in.asm
+[Info  - 12:14:12 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:14:43 PM] validating source code
+[Info  - 12:14:43 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:14:43 PM] Parsing diagnostics from in.asm
+[Info  - 12:14:43 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:14:45 PM] validating source code
+[Info  - 12:14:45 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:14:45 PM] Parsing diagnostics from in.asm
+[Info  - 12:14:45 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:22:57 PM] validating source code
+[Info  - 12:22:57 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:22:57 PM] Parsing diagnostics from in.asm
+[Info  - 12:22:57 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:23:26 PM] validating source code
+[Info  - 12:23:26 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:23:26 PM] Parsing diagnostics from in.asm
+[Info  - 12:23:26 PM] Parsed error diagnostic on line 119 with message "label or instruction expected at start of line"
+[Info  - 12:23:26 PM] Parsed error diagnostic on line 120 with message "label or instruction expected at start of line"
+finished calculating 2 diagnostics, sending
+[Info  - 12:23:39 PM] validating source code
+[Info  - 12:23:39 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:23:39 PM] Parsing diagnostics from in.asm
+[Info  - 12:23:39 PM] Parsed error diagnostic on line 119 with message "label or instruction expected at start of line"
+[Info  - 12:23:39 PM] Parsed error diagnostic on line 120 with message "label or instruction expected at start of line"
+finished calculating 2 diagnostics, sending
+[Info  - 12:23:45 PM] validating source code
+[Info  - 12:23:45 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:23:45 PM] Parsing diagnostics from in.asm
+[Info  - 12:23:45 PM] Parsed error diagnostic on line 119 with message "label or instruction expected at start of line"
+[Info  - 12:23:45 PM] Parsed error diagnostic on line 120 with message "label or instruction expected at start of line"
+finished calculating 2 diagnostics, sending
+[Info  - 12:23:46 PM] validating source code
+[Info  - 12:23:46 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:23:46 PM] Parsing diagnostics from in.asm
+[Info  - 12:23:46 PM] Parsed error diagnostic on line 119 with message "label or instruction expected at start of line"
+[Info  - 12:23:46 PM] Parsed error diagnostic on line 120 with message "label or instruction expected at start of line"
+finished calculating 2 diagnostics, sending
+[Info  - 12:23:46 PM] validating source code
+[Info  - 12:23:46 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:23:46 PM] Parsing diagnostics from in.asm
+[Info  - 12:23:46 PM] Parsed error diagnostic on line 119 with message "label or instruction expected at start of line"
+[Info  - 12:23:46 PM] Parsed error diagnostic on line 120 with message "label or instruction expected at start of line"
+finished calculating 2 diagnostics, sending
+[Info  - 12:24:02 PM] validating source code
+[Info  - 12:24:02 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:24:02 PM] Parsing diagnostics from in.asm
+[Info  - 12:24:02 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:24:27 PM] validating source code
+[Info  - 12:24:27 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:24:27 PM] Parsing diagnostics from in.asm
+[Info  - 12:24:27 PM] Parsed error diagnostic on line 119 with message "label or instruction expected at start of line"
+[Info  - 12:24:27 PM] Parsed error diagnostic on line 120 with message "label or instruction expected at start of line"
+finished calculating 2 diagnostics, sending
+[Info  - 12:29:41 PM] validating source code
+[Info  - 12:29:41 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:29:41 PM] Parsing diagnostics from in.asm
+[Info  - 12:29:41 PM] Parsed error diagnostic on line 131 with message "label or instruction expected at start of line"
+finished calculating 1 diagnostics, sending
+[Info  - 12:31:18 PM] validating source code
+[Info  - 12:31:18 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:31:18 PM] Parsing diagnostics from in.asm
+[Info  - 12:31:18 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:31:45 PM] validating source code
+[Info  - 12:31:45 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:31:45 PM] Parsing diagnostics from in.asm
+[Info  - 12:31:45 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:32:04 PM] validating source code
+[Info  - 12:32:04 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:32:04 PM] Parsing diagnostics from in.asm
+[Info  - 12:32:04 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:35:10 PM] validating source code
+[Info  - 12:35:10 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:35:10 PM] Parsing diagnostics from in.asm
+[Info  - 12:35:10 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:35:17 PM] validating source code
+[Info  - 12:35:17 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:35:17 PM] Parsing diagnostics from in.asm
+[Info  - 12:35:17 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:36:02 PM] validating source code
+[Info  - 12:36:02 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:36:02 PM] Parsing diagnostics from in.asm
+[Info  - 12:36:02 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:36:02 PM] validating source code
+[Info  - 12:36:02 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:36:02 PM] Parsing diagnostics from in.asm
+[Info  - 12:36:02 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:36:02 PM] validating source code
+[Info  - 12:36:02 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:36:02 PM] Parsing diagnostics from in.asm
+[Info  - 12:36:02 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:36:07 PM] validating source code
+[Info  - 12:36:07 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:36:07 PM] Parsing diagnostics from in.asm
+[Info  - 12:36:07 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:37:04 PM] validating source code
+[Info  - 12:37:04 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:37:04 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 12:37:10 PM] validating source code
+[Info  - 12:37:10 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:37:10 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 12:37:29 PM] validating source code
+[Info  - 12:37:29 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:37:29 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 12:37:32 PM] validating source code
+[Info  - 12:37:32 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:37:32 PM] Parsing diagnostics from in.asm
+[Info  - 12:37:32 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:37:39 PM] validating source code
+[Info  - 12:37:39 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:37:39 PM] Parsing diagnostics from in.asm
+[Info  - 12:37:39 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:37:41 PM] validating source code
+[Info  - 12:37:41 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:37:41 PM] Parsing diagnostics from in.asm
+[Info  - 12:37:41 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:42:15 PM] validating source code
+[Info  - 12:42:15 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:42:15 PM] Parsing diagnostics from in.asm
+[Info  - 12:42:15 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:42:22 PM] validating source code
+[Info  - 12:42:22 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:42:22 PM] Parsing diagnostics from in.asm
+[Info  - 12:42:22 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:42:28 PM] validating source code
+[Info  - 12:42:28 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:42:28 PM] Parsing diagnostics from in.asm
+[Info  - 12:42:28 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:42:31 PM] validating source code
+[Info  - 12:42:31 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:42:31 PM] Parsing diagnostics from in.asm
+[Info  - 12:42:31 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:46:31 PM] validating source code
+[Info  - 12:46:31 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:46:31 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 12:51:08 PM] validating source code
+[Info  - 12:51:08 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:51:08 PM] Parsing diagnostics from in.asm
+[Info  - 12:51:08 PM] Parsed error diagnostic on line 8 with message "parser: instruction expected"
+finished calculating 1 diagnostics, sending
+[Info  - 12:51:19 PM] validating source code
+[Info  - 12:51:19 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:51:19 PM] Parsing diagnostics from in.asm
+[Info  - 12:51:19 PM] Parsed error diagnostic on line 48 with message "operation size not specified"
+[Info  - 12:51:19 PM] Parsed error diagnostic on line 49 with message "operation size not specified"
+[Info  - 12:51:19 PM] Parsed error diagnostic on line 50 with message "operation size not specified"
+[Info  - 12:51:19 PM] Parsed error diagnostic on line 51 with message "operation size not specified"
+[Info  - 12:51:19 PM] Parsed error diagnostic on line 52 with message "operation size not specified"
+finished calculating 5 diagnostics, sending
+[Info  - 12:52:30 PM] validating source code
+[Info  - 12:52:30 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:52:30 PM] Parsing diagnostics from in.asm
+[Info  - 12:52:30 PM] Parsed error diagnostic on line 48 with message "operation size not specified"
+[Info  - 12:52:30 PM] Parsed error diagnostic on line 49 with message "operation size not specified"
+[Info  - 12:52:30 PM] Parsed error diagnostic on line 50 with message "operation size not specified"
+[Info  - 12:52:30 PM] Parsed error diagnostic on line 51 with message "operation size not specified"
+[Info  - 12:52:30 PM] Parsed error diagnostic on line 52 with message "operation size not specified"
+finished calculating 5 diagnostics, sending
+[Info  - 12:53:37 PM] validating source code
+[Info  - 12:53:37 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:53:37 PM] Parsing diagnostics from in.asm
+[Info  - 12:53:37 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:53:45 PM] validating source code
+[Info  - 12:53:45 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:53:45 PM] Parsing diagnostics from in.asm
+[Info  - 12:53:45 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:54:42 PM] validating source code
+[Info  - 12:54:42 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:54:42 PM] Parsing diagnostics from in.asm
+[Info  - 12:54:42 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:54:54 PM] validating source code
+[Info  - 12:54:54 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:54:54 PM] Parsing diagnostics from in.asm
+[Info  - 12:54:54 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:54:54 PM] validating source code
+[Info  - 12:54:54 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:54:54 PM] Parsing diagnostics from in.asm
+[Info  - 12:54:54 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:54:54 PM] validating source code
+[Info  - 12:54:54 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:54:54 PM] Parsing diagnostics from in.asm
+[Info  - 12:54:54 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:56:50 PM] validating source code
+[Info  - 12:56:50 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:56:50 PM] Parsing diagnostics from in.asm
+[Info  - 12:56:50 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:57:02 PM] validating source code
+[Info  - 12:57:02 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:57:02 PM] Parsing diagnostics from in.asm
+[Info  - 12:57:02 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 12:58:37 PM] validating source code
+[Info  - 12:58:37 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:58:37 PM] Parsing diagnostics from in.asm
+[Info  - 12:58:37 PM] Parsed fatal diagnostic on line 6 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending

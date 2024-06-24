@@ -1,0 +1,6 @@
+SECTION .bss
+variableName1 : RESB 1 ; reservar espacio para 1 byte
+variableName2 : RESW 1 ; reservar espacio para 1 palabra
+variableName3 : RESD 1 ; reservar espacio para 1 palabra doble
+variableName4 : RESQ 1 ; reservar espacio para 1 float de doble p r e c i s i n( quad word )
+variableName5 : REST 1 ; reserve espacio para 1 float de p r e c i s i n extendido

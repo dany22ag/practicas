@@ -1,0 +1,38 @@
+[Info  - 8:31:25 PM] Revalidating all documents due to configuration change
+[Info  - 8:31:25 PM] validating source code
+[Info  - 8:31:25 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:31:25 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:31:25 PM] validating source code
+[Info  - 8:31:26 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:31:26 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:31:30 PM] validating source code
+[Info  - 8:31:30 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:31:30 PM] Parsing diagnostics from in.asm
+[Info  - 8:31:30 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:39:00 PM] validating source code
+[Info  - 8:39:00 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:39:00 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:39:18 PM] validating source code
+[Info  - 8:39:18 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:39:18 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:39:44 PM] validating source code
+[Info  - 8:39:44 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:39:44 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:39:47 PM] validating source code
+[Info  - 8:39:47 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:39:47 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:40:02 PM] validating source code
+[Info  - 8:40:02 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:40:02 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:40:15 PM] validating source code
+[Info  - 8:40:15 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:40:15 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending

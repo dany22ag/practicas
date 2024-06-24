@@ -1,0 +1,254 @@
+[Info  - 8:41:05 PM] Revalidating all documents due to configuration change
+[Info  - 8:41:06 PM] validating source code
+[Info  - 8:41:06 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:06 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:41:06 PM] validating source code
+[Info  - 8:41:06 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:06 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:41:24 PM] validating source code
+[Info  - 8:41:24 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:24 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:24 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:41:24 PM] validating source code
+[Info  - 8:41:24 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:24 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:24 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:41:24 PM] validating source code
+[Info  - 8:41:24 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:24 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:24 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:41:29 PM] validating source code
+[Info  - 8:41:29 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:29 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 8:41:48 PM] validating source code
+[Info  - 8:41:48 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:48 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:48 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:48 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:41:48 PM] validating source code
+[Info  - 8:41:48 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:48 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:48 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:48 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:41:48 PM] validating source code
+[Info  - 8:41:48 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:48 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:48 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:48 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:41:49 PM] validating source code
+[Info  - 8:41:49 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:49 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:41:49 PM] validating source code
+[Info  - 8:41:49 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:49 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:41:49 PM] validating source code
+[Info  - 8:41:49 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:49 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:41:49 PM] validating source code
+[Info  - 8:41:49 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:49 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:41:49 PM] validating source code
+[Info  - 8:41:49 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:49 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:41:49 PM] validating source code
+[Info  - 8:41:49 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:49 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:41:49 PM] validating source code
+[Info  - 8:41:49 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:49 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:49 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:41:50 PM] validating source code
+[Info  - 8:41:50 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:41:50 PM] Parsing diagnostics from in.asm
+[Info  - 8:41:50 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:41:50 PM] Parsed error diagnostic on line 14 with message "symbol `user_input' undefined"
+finished calculating 2 diagnostics, sending
+[Info  - 8:44:00 PM] validating source code
+[Info  - 8:44:00 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:44:00 PM] Parsing diagnostics from in.asm
+[Info  - 8:44:00 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:44:11 PM] validating source code
+[Info  - 8:44:11 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:44:11 PM] Parsing diagnostics from in.asm
+[Info  - 8:44:11 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:44:25 PM] validating source code
+[Info  - 8:44:25 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:44:25 PM] Parsing diagnostics from in.asm
+[Info  - 8:44:25 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:46:40 PM] validating source code
+[Info  - 8:46:40 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:46:40 PM] Parsing diagnostics from in.asm
+[Info  - 8:46:40 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:47:00 PM] validating source code
+[Info  - 8:47:00 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:47:00 PM] Parsing diagnostics from in.asm
+[Info  - 8:47:00 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:47:00 PM] Parsed error diagnostic on line 3 with message "symbol `result_msg' undefined"
+[Info  - 8:47:00 PM] Parsed error diagnostic on line 15 with message "symbol `user_input' undefined"
+finished calculating 3 diagnostics, sending
+[Info  - 8:48:15 PM] validating source code
+[Info  - 8:48:15 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:48:15 PM] Parsing diagnostics from in.asm
+[Info  - 8:48:15 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:48:15 PM] Parsed error diagnostic on line 3 with message "symbol `result_msg' undefined"
+[Info  - 8:48:15 PM] Parsed error diagnostic on line 15 with message "symbol `user_input' undefined"
+finished calculating 3 diagnostics, sending
+[Info  - 8:48:19 PM] validating source code
+[Info  - 8:48:19 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:48:19 PM] Parsing diagnostics from in.asm
+[Info  - 8:48:19 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:48:19 PM] Parsed error diagnostic on line 3 with message "symbol `result_msg' undefined"
+[Info  - 8:48:19 PM] Parsed error diagnostic on line 15 with message "symbol `user_input' undefined"
+finished calculating 3 diagnostics, sending
+[Info  - 8:48:42 PM] validating source code
+[Info  - 8:48:42 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:48:42 PM] Parsing diagnostics from in.asm
+[Info  - 8:48:42 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:48:50 PM] validating source code
+[Info  - 8:48:50 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:48:50 PM] Parsing diagnostics from in.asm
+[Info  - 8:48:50 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:48:55 PM] validating source code
+[Info  - 8:48:55 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:48:55 PM] Parsing diagnostics from in.asm
+[Info  - 8:48:55 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:48:58 PM] validating source code
+[Info  - 8:48:58 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:48:58 PM] Parsing diagnostics from in.asm
+[Info  - 8:48:58 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:48:58 PM] Parsed error diagnostic on line 3 with message "symbol `result_msg' undefined"
+[Info  - 8:48:58 PM] Parsed error diagnostic on line 15 with message "symbol `user_input' undefined"
+finished calculating 3 diagnostics, sending
+[Info  - 8:53:21 PM] validating source code
+[Info  - 8:53:21 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:53:21 PM] Parsing diagnostics from in.asm
+[Info  - 8:53:21 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:53:24 PM] validating source code
+[Info  - 8:53:24 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:53:24 PM] Parsing diagnostics from in.asm
+[Info  - 8:53:24 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:53:28 PM] validating source code
+[Info  - 8:53:28 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:53:28 PM] Parsing diagnostics from in.asm
+[Info  - 8:53:28 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:53:32 PM] validating source code
+[Info  - 8:53:32 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:53:32 PM] Parsing diagnostics from in.asm
+[Info  - 8:53:32 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:53:38 PM] validating source code
+[Info  - 8:53:38 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:53:38 PM] Parsing diagnostics from in.asm
+[Info  - 8:53:38 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:57:34 PM] validating source code
+[Info  - 8:57:34 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:57:34 PM] Parsing diagnostics from in.asm
+[Info  - 8:57:34 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:57:34 PM] Parsed error diagnostic on line 3 with message "symbol `result_msg' undefined"
+[Info  - 8:57:34 PM] Parsed error diagnostic on line 15 with message "symbol `user_input' undefined"
+[Info  - 8:57:34 PM] Parsed error diagnostic on line 19 with message "symbol `user_input' undefined"
+finished calculating 4 diagnostics, sending
+[Info  - 8:57:34 PM] validating source code
+[Info  - 8:57:34 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:57:34 PM] Parsing diagnostics from in.asm
+[Info  - 8:57:34 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:57:34 PM] Parsed error diagnostic on line 3 with message "symbol `result_msg' undefined"
+[Info  - 8:57:34 PM] Parsed error diagnostic on line 15 with message "symbol `user_input' undefined"
+[Info  - 8:57:34 PM] Parsed error diagnostic on line 19 with message "symbol `user_input' undefined"
+finished calculating 4 diagnostics, sending
+[Info  - 8:57:37 PM] validating source code
+[Info  - 8:57:37 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:57:37 PM] Parsing diagnostics from in.asm
+[Info  - 8:57:37 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:57:37 PM] Parsed error diagnostic on line 3 with message "symbol `result_msg' undefined"
+[Info  - 8:57:37 PM] Parsed error diagnostic on line 15 with message "symbol `user_input' undefined"
+[Info  - 8:57:37 PM] Parsed error diagnostic on line 19 with message "symbol `user_input' undefined"
+finished calculating 4 diagnostics, sending
+[Info  - 8:57:48 PM] validating source code
+[Info  - 8:57:48 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:57:48 PM] Parsing diagnostics from in.asm
+[Info  - 8:57:48 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:57:48 PM] Parsed error diagnostic on line 3 with message "symbol `result_msg' undefined"
+[Info  - 8:57:48 PM] Parsed error diagnostic on line 15 with message "symbol `user_input' undefined"
+[Info  - 8:57:48 PM] Parsed error diagnostic on line 19 with message "symbol `user_input' undefined"
+finished calculating 4 diagnostics, sending
+[Info  - 8:58:09 PM] validating source code
+[Info  - 8:58:09 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:58:09 PM] Parsing diagnostics from in.asm
+[Info  - 8:58:09 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:59:24 PM] validating source code
+[Info  - 8:59:24 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:59:24 PM] Parsing diagnostics from in.asm
+[Info  - 8:59:24 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:59:33 PM] validating source code
+[Info  - 8:59:33 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:59:33 PM] Parsing diagnostics from in.asm
+[Info  - 8:59:33 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:59:37 PM] validating source code
+[Info  - 8:59:37 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:59:37 PM] Parsing diagnostics from in.asm
+[Info  - 8:59:37 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending
+[Info  - 8:59:51 PM] validating source code
+[Info  - 8:59:51 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 8:59:51 PM] Parsing diagnostics from in.asm
+[Info  - 8:59:51 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 8:59:51 PM] Parsed error diagnostic on line 3 with message "symbol `result_msg' undefined"
+[Info  - 8:59:51 PM] Parsed error diagnostic on line 15 with message "symbol `user_input' undefined"
+[Info  - 8:59:51 PM] Parsed error diagnostic on line 19 with message "symbol `user_input' undefined"
+finished calculating 4 diagnostics, sending
+[Info  - 9:11:31 PM] validating source code
+[Info  - 9:11:31 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 9:11:31 PM] Parsing diagnostics from in.asm
+[Info  - 9:11:31 PM] Parsed error diagnostic on line 2 with message "symbol `prompt_msg' undefined"
+[Info  - 9:11:31 PM] Parsed error diagnostic on line 3 with message "symbol `result_msg' undefined"
+[Info  - 9:11:31 PM] Parsed error diagnostic on line 16 with message "symbol `user_input' undefined"
+finished calculating 3 diagnostics, sending
+[Info  - 9:12:03 PM] validating source code
+[Info  - 9:12:03 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 9:12:03 PM] Parsing diagnostics from in.asm
+[Info  - 9:12:03 PM] Parsed fatal diagnostic on line 1 with message "unable to open include file `functions.asm'"
+finished calculating 1 diagnostics, sending

@@ -1,0 +1,4 @@
+mov eax , 10 ; mover 10 a eax
+mov esi , 10 ; mueve 10 a esi
+idiv esi ; divide eax por esi (eax s e r igual a 1 y edx s e r igual a 0))
+idiv esi ; divide eax por esi nuevamente (eax s e r igual a 0 y edx s e r igual a 1)

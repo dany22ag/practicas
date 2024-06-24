@@ -1,0 +1,14 @@
+2024-06-19 08:25:37.171 [info] 
+
+
+
+
+2024-06-19 08:25:37.190 [info] Extension host agent started.
+2024-06-19 08:25:37.318 [info] [127.0.0.1][2f6fa95c][ManagementConnection] New connection established.
+2024-06-19 08:25:37.578 [info] [127.0.0.1][05c7a069][ExtensionHostConnection] New connection established.
+2024-06-19 08:25:37.794 [info] [127.0.0.1][05c7a069][ExtensionHostConnection] <175> Launched Extension Host Process.
+2024-06-19 12:58:22.143 [info] [127.0.0.1][2f6fa95c][ManagementConnection] The client has reconnected.
+2024-06-19 12:58:22.476 [info] [127.0.0.1][05c7a069][ExtensionHostConnection] The client has reconnected.
+2024-06-19 15:25:16.234 [info] [127.0.0.1][2f6fa95c][ManagementConnection] The client has reconnected.
+2024-06-19 15:25:16.363 [info] [127.0.0.1][05c7a069][ExtensionHostConnection] The client has reconnected.
+2024-06-19 15:32:53.783 [info] [127.0.0.1][2f6fa95c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
